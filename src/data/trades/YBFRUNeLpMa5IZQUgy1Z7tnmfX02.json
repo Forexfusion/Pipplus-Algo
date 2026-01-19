@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "date": "2024-08-19",
+    "symbol": "XAUUSD",
+    "tradeType": "SELL",
+    "quantity": 0.05,
+    "entry": 4671.00,
+    "exit": 4666.60,
+    "profit": 22
+  }
+]
