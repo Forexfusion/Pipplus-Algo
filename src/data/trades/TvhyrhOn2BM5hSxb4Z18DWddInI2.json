@@ -8309,5 +8309,32 @@
     "entry": 4869.58,
     "exit": 4882.00,
     "profit": 124.2
+  },
+  {
+    "date": "2026-02-08",
+    "symbol": "BTCUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 69357.23,
+    "exit": 70331.02,
+    "profit": 97.38
+  },
+  {
+    "date": "2026-02-07",
+    "symbol": "BTCUSD",
+    "tradeType": "SELL",
+    "quantity": 0.10,
+    "entry": 71209.17,
+    "exit": 71100.45,
+    "profit": 10.87
+  },
+  {
+    "date": "2026-02-07",
+    "symbol": "BTCUSD",
+    "tradeType": "SELL",
+    "quantity": 0.10,
+    "entry": 71074.64,
+    "exit": 70970.87,
+    "profit": 10.38
   }
 ]
