@@ -1,1636 +1,1636 @@
 [
-    {
-date: "2025-08-04",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3360.436,
-exit: 3370.436,
-profit: 50
+{
+"date": "2025-08-04",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3360.436,
+"exit": 3370.436,
+"profit": 50
 },
 {
-date: "2025-08-04",
-symbol: "USDJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 147.696,
-exit: 146.955,
-profit: -25.21
+"date": "2025-08-04",
+"symbol": "USDJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 147.696,
+"exit": 146.955,
+"profit": -25.21
 },
 {
-date: "2025-08-04",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3365.150,
-exit: 3381.150,
-profit: 80
+"date": "2025-08-04",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3365.150,
+"exit": 3381.150,
+"profit": 80
 },
 {
-date: "2025-08-04",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 114419.48,
-exit: 115419.48,
-profit: 50
+"date": "2025-08-04",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 114419.48,
+"exit": 115419.48,
+"profit": 50
 },
 {
-date: "2025-08-05",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 195.446,
-exit: 196.184,
-profit: 24.98
+"date": "2025-08-05",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 195.446,
+"exit": 196.184,
+"profit": 24.98
 },
 {
-date: "2025-08-05",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3369.891,
-exit: 3364.891,
-profit: 25
+"date": "2025-08-05",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3369.891,
+"exit": 3364.891,
+"profit": 25
 },
 {
-date: "2025-08-05",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 114495.36,
-exit: 114095.36,
-profit: 20
+"date": "2025-08-05",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 114495.36,
+"exit": 114095.36,
+"profit": 20
 },
 {
-date: "2025-08-05",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 1.15499,
-exit: 1.15336,
-profit: -8.15
+"date": "2025-08-05",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 1.15499,
+"exit": 1.15336,
+"profit": -8.15
 },
 {
-date: "2025-08-05",
-symbol: "USDJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 147.137,
-exit: 147.737,
-profit: 20.305
+"date": "2025-08-05",
+"symbol": "USDJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 147.137,
+"exit": 147.737,
+"profit": 20.305
 },
 {
-date: "2025-08-07",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3375.784,
-exit: 3387.784,
-profit: 60
+"date": "2025-08-07",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3375.784,
+"exit": 3387.784,
+"profit": 60
 },
 {
-date: "2025-08-08",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3393.127,
-exit: 3400.127,
-profit: 35
+"date": "2025-08-08",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3393.127,
+"exit": 3400.127,
+"profit": 35
 },
 {
-date: "2025-08-08",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 116569.74,
-exit: 116739.74,
-profit: -8.5
+"date": "2025-08-08",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 116569.74,
+"exit": 116739.74,
+"profit": -8.5
 },
 {
-date: "2025-08-08",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 197.908,
-exit: 198.578,
-profit: -22.69
+"date": "2025-08-08",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 197.908,
+"exit": 198.578,
+"profit": -22.69
 },
 {
-date: "2025-08-09",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 117337.82,
-exit: 116537.82,
-profit: 40
+"date": "2025-08-09",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 117337.82,
+"exit": 116537.82,
+"profit": 40
 },
 {
-date: "2025-08-10",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 117358.82,
-exit: 118358.82,
-profit: 50
+"date": "2025-08-10",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 117358.82,
+"exit": 118358.82,
+"profit": 50
 },
 {
-date: "2025-08-11",
-symbol: "USDJPY",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 147.476,
-exit: 147.947,
-profit: -15.92
+"date": "2025-08-11",
+"symbol": "USDJPY",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 147.476,
+"exit": 147.947,
+"profit": -15.92
 },
 {
-date: "2025-08-11",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 1.16725,
-exit: 1.16157,
-profit: -28.4
+"date": "2025-08-11",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 1.16725,
+"exit": 1.16157,
+"profit": -28.4
 },
 {
-date: "2025-08-11",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 121785.56,
-exit: 119785.56,
-profit: 100
+"date": "2025-08-11",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 121785.56,
+"exit": 119785.56,
+"profit": 100
 },
 {
-date: "2025-08-11",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3377.128,
-exit: 3352.128,
-profit: 125
+"date": "2025-08-11",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3377.128,
+"exit": 3352.128,
+"profit": 125
 },
 {
-date: "2025-08-12",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3353.566,
-exit: 3347.566,
-profit: 30
+"date": "2025-08-12",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3353.566,
+"exit": 3347.566,
+"profit": 30
 },
 {
-date: "2025-08-12",
-symbol: "GBPJPY",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 199.329,
-exit: 199.841,
-profit: -17.255
+"date": "2025-08-12",
+"symbol": "GBPJPY",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 199.329,
+"exit": 199.841,
+"profit": -17.255
 },
 {
-date: "2025-08-12",
-symbol: "XAGUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 37.872,
-exit: 37.672,
-profit: 50
+"date": "2025-08-12",
+"symbol": "XAGUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 37.872,
+"exit": 37.672,
+"profit": 50
 },
 {
-date: "2025-08-13",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3377.128,
-exit: 3352.128,
-profit: 125
+"date": "2025-08-13",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3377.128,
+"exit": 3352.128,
+"profit": 125
 },
 {
-date: "2025-08-14",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 199.732,
-exit: 200.077,
-profit: 11.67
+"date": "2025-08-14",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 199.732,
+"exit": 200.077,
+"profit": 11.67
 },
 {
-date: "2025-08-14",
-symbol: "XAGUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 37.906,
-exit: 38.048,
-profit: 35.5
+"date": "2025-08-14",
+"symbol": "XAGUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 37.906,
+"exit": 38.048,
+"profit": 35.5
 } ,
 {
-date: "2025-08-18",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3377.128,
-exit: 3352.128,
-profit: 125
+"date": "2025-08-18",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3377.128,
+"exit": 3352.128,
+"profit": 125
 },
 {
-date: "2025-08-19",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3353.266,
-exit: 3339.266,
-profit: 70
+"date": "2025-08-19",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3353.266,
+"exit": 3339.266,
+"profit": 70
 },
 {
-date: "2025-08-19",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 115418.85,
-exit: 115039.32,
-profit: -18.98
+"date": "2025-08-19",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 115418.85,
+"exit": 115039.32,
+"profit": -18.98
 },
 {
-date: "2025-08-20",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3319.585,
-exit: 3333.585,
-profit: 70
+"date": "2025-08-20",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3319.585,
+"exit": 3333.585,
+"profit": 70
 },
 {
-date: "2025-08-20",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 113518.14,
-exit: 113818.14,
-profit: -15
+"date": "2025-08-20",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 113518.14,
+"exit": 113818.14,
+"profit": -15
 },
 {
-date: "2025-08-21",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 3339.246,
-exit: 3327.246,
-profit: 60
+"date": "2025-08-21",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 3339.246,
+"exit": 3327.246,
+"profit": 60
 },
 {
-date: "2025-08-21",
-symbol: "USDJPY",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 147.390,
-exit: 147.844,
-profit: -15.355
+"date": "2025-08-21",
+"symbol": "USDJPY",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 147.390,
+"exit": 147.844,
+"profit": -15.355
 },
 {
-date: "2025-08-21",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 198.258,
-exit: 199.058,
-profit: 27.055
+"date": "2025-08-21",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 198.258,
+"exit": 199.058,
+"profit": 27.055
 },
 {
-date: "2025-08-26",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3364.945,
-exit: 3377.495,
-profit: 62.75
+"date": "2025-08-26",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3364.945,
+"exit": 3377.495,
+"profit": 62.75
 },
 {
-date: "2025-08-26",
-symbol: "USDJPY",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 148.574,
-exit: 147.802,
-profit: 26.115
+"date": "2025-08-26",
+"symbol": "USDJPY",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 148.574,
+"exit": 147.802,
+"profit": 26.115
 },
 {
-date: "2025-08-27",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3382.579,
-exit: 3388.579,
-profit: 30
+"date": "2025-08-27",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3382.579,
+"exit": 3388.579,
+"profit": 30
 },
 {
-date: "2025-08-27",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 110747.12,
-exit: 112047.12,
-profit: 65
-},
-
-{
-date: "2025-08-29",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3408.00,
-exit: 3418.00,
-profit: 50
-},
-{
-date: "2025-08-29",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 110489.30,
-exit: 109489.30,
-profit: 50
-},
-{
-date: "2025-08-29",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3448.00,
-exit: 3444.00,
-profit: -20
-},
-{
-date: "2025-09-02",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 111338.78,
-exit: 110778.78,
-profit: 28
-},
-{
-date: "2025-09-02",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3511.120,
-exit: 3521.120,
-profit: 50
+"date": "2025-08-27",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 110747.12,
+"exit": 112047.12,
+"profit": 65
 },
 
 {
-date: "2025-09-05",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 3557.864,
-exit: 3577.864,
-profit: 100
+"date": "2025-08-29",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3408.00,
+"exit": 3418.00,
+"profit": 50
 },
 {
-date: "2025-09-05",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 199.393,
-exit: 198.790,
-profit: -20.495
+"date": "2025-08-29",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 110489.30,
+"exit": 109489.30,
+"profit": 50
 },
 {
-date: "2025-09-05",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 1.16703,
-exit: 1.17274,
-profit: 28.55
-},
-
-{
-date: "2025-09-08",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3589.120,
-exit: 3612.120,
-profit: 115
+"date": "2025-08-29",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3448.00,
+"exit": 3444.00,
+"profit": -20
 },
 {
-date: "2025-09-08",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 110737.51,
-exit: 111837.51,
-profit: 55
+"date": "2025-09-02",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 111338.78,
+"exit": 110778.78,
+"profit": 28
 },
 {
-date: "2025-09-09",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3655.624,
-exit: 3644.624,
-profit: 55
-},
-{
-date: "2025-09-09",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 112054.58,
-exit: 112654.58,
-profit: 30
-},
-{
-date: "2025-09-09",
-symbol: "USDJPY",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 147.051,
-exit: 146.316,
-profit: -25.115
-},
-{
-date: "2025-09-09",
-symbol: "EURUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 1.17760,
-exit: 1.17340,
-profit: 21
-},
-{
-date: "2025-09-11",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3636.309,
-exit: 3628.309,
-profit: 40
-},
-{
-date: "2025-09-12",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3649.325,
-exit: 3641.325,
-profit: 40
-},
-{
-date: "2025-09-12",
-symbol: "USDJPY",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 147.475,
-exit: 148.035,
-profit: 18.195
-},
-{
-date: "2025-09-12",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 115342.47,
-exit: 115054.80,
-profit: 14.385
-},
-{
-date: "2025-09-12",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 1.17300,
-exit: 1.17042,
-profit: -12.9
-},
-{
-date: "2025-09-16",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 115794.73,
-exit: 115645.26,
-profit: -7.47
-},
-{
-date: "2025-09-16",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3683.488,
-exit: 3695.488,
-profit: 60
-},
-{
-date: "2025-09-16",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 1.17787,
-exit: 1.18084,
-profit: 14.85
-},
-{
-date: "2025-09-17",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3676.94,
-exit: 3652.27,
-profit: 123.35
-},
-{
-date: "2025-09-18",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3669.66,
-exit: 3664.61,
-profit: 20.25
-},
-{
-date: "2025-09-18",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3637.36,
-exit: 3644.79,
-profit: 37.15
-},
-{
-date: "2025-09-19",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3644.132,
-exit: 3655.132,
-profit: 55
-},
-{
-date: "2025-09-19",
-symbol: "XAGUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 41.869,
-exit: 42.269,
-profit: 100
-},
-{
-date: "2025-09-19",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 117190.80,
-exit: 116990.80,
-profit: -10
-},
-{
-date: "2025-09-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3724.614,
-exit: 3713,
-profit: 58.07
-},
-{
-date: "2025-09-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3715.07,
-exit: 3719.09,
-profit: 20.1
-},
-{
-date: "2025-09-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3692.2143,
-exit: 3710,
-profit: 88.925
-},
-{
-date: "2025-09-23",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3746.885,
-exit: 3740.21,
-profit: 33.375
-},
-{
-date: "2025-09-23",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 3757.178,
-exit: 3746.707,
-profit: 52.355
-},
-{
-date: "2025-09-24",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3752.931,
-exit: 3765.279,
-profit: 61.74
-},
-{
-date: "2025-09-24",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3767.857,
-exit: 3771.7,
-profit: 19.215
-},
-{
-date: "2025-10-03",
-symbol: "EURUSD",
-tradeType: "SELL",
-quantity: 0.1,
-entry: 1.17202,
-exit: 1.17350,
-profit: -7.4
-},
-{
-date: "2025-10-03",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 120137.11,
-exit: 120437.11,
-profit: 22.5
-},
-{
-date: "2025-10-03",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.1,
-entry: 3844.485,
-exit: 3859.485,
-profit: 75
-},
-{
-date: "2025-10-04",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 122861.22,
-exit: 121861.22,
-profit: 75
-},
-{
-date: "2025-10-05",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.15,
-entry: 12754.07,
-exit: 123754.01,
-profit: 150
-},
-{
-date: "2025-10-06",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3920.952,
-exit: 3928.952,
-profit: 40
-},
-{
-date: "2025-10-06",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3937.896,
-exit: 3957.896,
-profit: 100
-},
-{
-date: "2025-10-06",
-symbol: "EURUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 1.16753,
-exit: 1.17133,
-profit: 19
-},
-{
-date: "2025-10-06",
-symbol: "USDJPY",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 150.344,
-exit: 149.99,
-profit: -11.5
-},
-{
-date: "2025-10-07",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 124573.45,
-exit: 122373.45,
-profit: 165
-},
-{
-date: "2025-10-07",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3968.351,
-exit: 3986.351,
-profit: 90
-},
-{
-date: "2025-10-08",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4012.245,
-exit: 4047.245,
-profit: 175
-},
-{
-date: "2025-10-09",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4038.081,
-exit: 4048.081,
-profit: 50
-},
-{
-date: "2025-10-09",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.15,
-entry: 122290.15,
-exit: 123490.15,
-profit: 90
-},
-{
-date: "2025-10-10",
-symbol: "XAGUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 51.004,
-exit: 49.992,
-profit: 126.5
-},
-{
-date: "2025-10-10",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 3999.952,
-exit: 3986.952,
-profit: 65
-},
-{
-date: "2025-10-11",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 110950.15,
-exit: 110596.65,
-profit: 17.7
-},
-{
-date: "2025-10-11",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 112328.85,
-exit: 112101.85,
-profit: 11.35
-},
-{
-date: "2025-10-12",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 112049.25,
-exit: 114796.05,
-profit: 137.35
+"date": "2025-09-02",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3511.120,
+"exit": 3521.120,
+"profit": 50
 },
 
 {
-date: "2025-10-13",
-symbol: "EURUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 1.15946,
-exit: 1.15692,
-profit: 12.7
-},
-{
-date: "2025-10-13",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4073.237,
-exit: 4077.237,
-profit: 20
-},
-{
-date: "2025-10-13",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 114708.45,
-exit: 115208.45,
-profit: 20
-},
-{
-date: "2025-10-13",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4060.343,
-exit: 4075.343,
-profit: 75
-},
-{
-date: "2025-10-13",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4057.612,
-exit: 4056.154,
-profit: -7.29
-},
-{
-date: "2025-10-14",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4103.231,
-exit: 4176.231,
-profit: 365
-},
-{
-date: "2025-10-14",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4176.271,
-exit: 4136.271,
-profit: 200
-},
-{
-date: "2025-10-15",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4176.555,
-exit: 4196.555,
-profit: 100
-},
-{
-date: "2025-10-15",
-symbol: "GBPJPY",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 201.635,
-exit: 202.197,
-profit: -18.55
-},
-{
-date: "2025-10-15",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4201.759,
-exit: 4187.759,
-profit: 70
-},
-{
-date: "2025-10-15",
-symbol: "XAGUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 52.956,
-exit: 52.533,
-profit: 52.875
-},
-{
-date: "2025-10-15",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 113063.07,
-exit: 112463.07,
-profit: 30
-},
-{
-date: "2025-10-16",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4201.919,
-exit: 4221.661,
-profit: 98.71
-},
-{
-date: "2025-10-16",
-symbol: "GBPUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 1.33506,
-exit: 1.34204,
-profit: 34.9
-},
-{
-date: "2025-10-16",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4235.163,
-exit: 4221.631,
-profit: 67.66
-},
-{
-date: "2025-10-16",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 112000.22,
-exit: 111056.10,
-profit: 47.205
-},
-{
-date: "2025-10-17",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4365.684,
-exit: 4355.684,
-profit: 50
-},
-{
-date: "2025-10-17",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 108448.44,
-exit: 106448.44,
-profit: 100
-},
-{
-date: "2025-10-17",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 201.682,
-exit: 201.008,
-profit: -22.54
-},
-{
-date: "2025-10-20",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 108243.78,
-exit: 111243.78,
-profit: 150
-},
-{
-date: "2025-10-20",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4267.936,
-exit: 4232.936,
-profit: 175
-},
-{
-date: "2025-10-20",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 108243.78,
-exit: 111243.78,
-profit: 150
-},
-{
-date: "2025-10-20",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4267.936,
-exit: 4232.936,
-profit: 175
-},
-{
-date: "2025-10-21",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4101.409,
-exit: 4131.409,
-profit: 150
-},
-{
-date: "2025-10-21",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4170.745,
-exit: 4110.745,
-profit: 300
-},
-{
-date: "2025-10-21",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4263.883,
-exit: 4203.883,
-profit: 300
-},
-{
-date: "2025-10-22",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4156.704,
-exit: 4136.704,
-profit: 100
-},
-{
-date: "2025-10-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4148.983,
-exit: 4158.983,
-profit: 50
-},
-{
-date: "2025-10-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4129.227,
-exit: 4144.227,
-profit: 75
-},
-{
-date: "2025-10-22",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4113.342,
-exit: 4123.342,
-profit: 50
-},
-{
-date: "2025-10-22",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4095.813,
-exit: 4065.813,
-profit: 150
-},
-{
-date: "2025-10-23",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4077.335,
-exit: 4100.335,
-profit: 115
-},
-{
-date: "2025-10-23",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 108928.70,
-exit: 109928.70,
-profit: 50
-},
-{
-date: "2025-10-24",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4090.811,
-exit: 4111.214,
-profit: 102.015
-},
-{
-date: "2025-10-24",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 111216.15,
-exit: 110616.15,
-profit: -30
-},
-{
-date: "2025-10-24",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4078.410,
-exit: 4053.406,
-profit: 125.02
-},
-{
-date: "2025-10-24",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4113.577,
-exit: 4103.581,
-profit: 49.98
-},
-{
-date: "2025-10-27",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4038.532,
-exit: 4018.532,
-profit: 100
-},
-{
-date: "2025-10-27",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4078.762,
-exit: 4058.762,
-profit: 100
-},
-{
-date: "2025-10-28",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 113832.29,
-exit: 114472.86,
-profit: -32.03
-},
-{
-date: "2025-10-28",
-symbol: "GBPJPY",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 203.541,
-exit: 202.324,
-profit: -40.065
-},
-{
-date: "2025-10-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 3920.140,
-exit: 3900.140,
-profit: 100
-},
-{
-date: "2025-10-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 3968.830,
-exit: 3945.830,
-profit: 115
-},
-{
-date: "2025-10-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 3986.093,
-exit: 3976.093,
-profit: 50
-},
-{
-date: "2025-10-29",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3972.548,
-exit: 4017.548,
-profit: 225
-},
-{
-date: "2025-10-30",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3925.628,
-exit: 3945.628,
-profit: 100
-},
-{
-date: "2025-10-30",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3971.860,
-exit: 4001.860,
-profit: 150
-},
-{
-date: "2025-10-30",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 201.075,
-exit: 202.995,
-profit: 62.44
-},
-{
-date: "2025-10-30",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 110717.48,
-exit: 110236.71,
-profit: 24.04
-},
-{
-date: "2025-10-31",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4010.812,
-exit: 4020.812,
-profit: 50
-},
-{
-date: "2025-10-31",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4004.088,
-exit: 4014.088,
-profit: 50
-},
-{
-date: "2025-11-03",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4016.223,
-exit: 4000.223,
-profit: 80
-},
-{
-date: "2025-11-03",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3992.086,
-exit: 4020.086,
-profit: 140
-},
-{
-date: "2025-11-05",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3950.389,
-exit: 3970.389,
-profit: 100
-},
-{
-date: "2025-11-05",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 3980.000,
-exit: 3960.000,
-profit: 100
-},
-{
-date: "2025-11-07",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 3995.159,
-exit: 4005.147,
-profit: 49.94
-},
-{
-date: "2025-11-07",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 102103.16,
-exit: 100107.03,
-profit: 149.71
-},
-{
-date: "2025-11-10",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4081.371,
-exit: 4101.371,
-profit: 100
-},
-{
-date: "2025-11-10",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4050.998,
-exit: 4070.998,
-profit: 100
-},
-{
-date: "2025-11-11",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4134.315,
-exit: 4144.315,
-profit: 50
-},
-{
-date: "2025-11-11",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 106262.89,
-exit: 105264.49,
-profit: 74.88
-},
-{
-date: "2025-11-11",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4144.512,
-exit: 4129.512,
-profit: 75
-},
-{
-date: "2025-11-12",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4105.501,
-exit: 4131.501,
-profit: 130
-},
-{
-date: "2025-11-13",
-symbol: "EURUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 1.15874,
-exit: 1.16091,
-profit: -10.85
-},
-{
-date: "2025-11-13",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4234.720,
-exit: 4231.650,
-profit: -15
-},
-{
-date: "2025-11-13",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.15,
-entry: 102081.52,
-exit: 103481.22,
-profit: 104.975
-},
-{
-date: "2025-11-13",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.10,
-entry: 4188.137,
-exit: 4216.137,
-profit: 140
-},
-{
-date: "2025-11-14",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4207.021,
-exit: 4182.021,
-profit: 125
-},
-{
-date: "2025-11-14",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4080,
-exit: 4050,
-profit: 150
-},
-{
-date: "2025-11-17",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4089.678,
-exit: 4059.678,
-profit: 150
-},
-{
-date: "2025-11-17",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.10,
-entry: 4082.874,
-exit: 4068.874,
-profit: 70
-},
-{
-date: "2025-11-17",
-symbol: "GBPJPY",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 203.391,
-exit: 204.143,
-profit: 24.28
-},
-{
-date: "2025-11-17",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.15,
-entry: 95056.52,
-exit: 94508.25,
-profit: -41.12
-},
-{
-date: "2025-11-18",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.15,
-entry: 89397.44,
-exit: 91397.44,
-profit: 150
-},
-{
-date: "2025-11-18",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4047.808,
-exit: 4037.808,
-profit: 50
-},
-{
-date: "2025-11-18",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4007.303,
-exit: 4040.303,
-profit: 165
-},
-{
-date: "2025-11-19",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4072.407,
-exit: 4092.407,
-profit: 100
-},
-{
-date: "2025-11-19",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 92210.23,
-exit: 91210.23,
-profit: 75
-},
-{
-date: "2025-11-20",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4073.745,
-exit: 4046.645,
-profit: 135
-},
-{
-date: "2025-11-21",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 86598.59,
-exit: 83598.59,
-profit: 225
-},
-{
-date: "2025-11-21",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4070.356,
-exit: 4053.356,
-profit: 85
-},
-{
-date: "2025-11-21",
-symbol: "XAUUSD",
-tradeType: "Buy",
-quantity: 0.05,
-entry: 4070.356,
-exit: 4053.356,
-profit: 85
-},
-{
-date: "2025-11-24",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4070.134,
-exit: 4076.134,
-profit: 30
-},
-{
-date: "2025-11-24",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4056.176,
-exit: 4076.176,
-profit: 50
-},
-{
-date: "2025-11-25",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.15,
-entry: 88181.61,
-exit: 87181.61,
-profit: 75
-},
-{
-date: "2025-11-25",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4146.829,
-exit: 4120.829,
-profit: 130
-},
-{
-date: "2025-11-28",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4165.431,
-exit: 4175.531,
-profit: 50.5
-},
-{
-date: "2025-11-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4185.559,
-exit: 4176.402,
-profit: 45.785
-},
-{
-date: "2025-12-18",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 4336.054,
-exit: 4316.054,
-profit: 100
-},
-{
-date: "2025-12-18",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4333.351,
-exit: 4363.351,
-profit: 150
+"date": "2025-09-05",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 3557.864,
+"exit": 3577.864,
+"profit": 100
+},
+{
+"date": "2025-09-05",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 199.393,
+"exit": 198.790,
+"profit": -20.495
+},
+{
+"date": "2025-09-05",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 1.16703,
+"exit": 1.17274,
+"profit": 28.55
+},
+
+{
+"date": "2025-09-08",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3589.120,
+"exit": 3612.120,
+"profit": 115
+},
+{
+"date": "2025-09-08",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 110737.51,
+"exit": 111837.51,
+"profit": 55
+},
+{
+"date": "2025-09-09",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3655.624,
+"exit": 3644.624,
+"profit": 55
+},
+{
+"date": "2025-09-09",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 112054.58,
+"exit": 112654.58,
+"profit": 30
+},
+{
+"date": "2025-09-09",
+"symbol": "USDJPY",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 147.051,
+"exit": 146.316,
+"profit": -25.115
+},
+{
+"date": "2025-09-09",
+"symbol": "EURUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 1.17760,
+"exit": 1.17340,
+"profit": 21
+},
+{
+"date": "2025-09-11",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3636.309,
+"exit": 3628.309,
+"profit": 40
+},
+{
+"date": "2025-09-12",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3649.325,
+"exit": 3641.325,
+"profit": 40
+},
+{
+"date": "2025-09-12",
+"symbol": "USDJPY",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 147.475,
+"exit": 148.035,
+"profit": 18.195
+},
+{
+"date": "2025-09-12",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 115342.47,
+"exit": 115054.80,
+"profit": 14.385
+},
+{
+"date": "2025-09-12",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 1.17300,
+"exit": 1.17042,
+"profit": -12.9
+},
+{
+"date": "2025-09-16",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 115794.73,
+"exit": 115645.26,
+"profit": -7.47
+},
+{
+"date": "2025-09-16",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3683.488,
+"exit": 3695.488,
+"profit": 60
+},
+{
+"date": "2025-09-16",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 1.17787,
+"exit": 1.18084,
+"profit": 14.85
+},
+{
+"date": "2025-09-17",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3676.94,
+"exit": 3652.27,
+"profit": 123.35
+},
+{
+"date": "2025-09-18",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3669.66,
+"exit": 3664.61,
+"profit": 20.25
+},
+{
+"date": "2025-09-18",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3637.36,
+"exit": 3644.79,
+"profit": 37.15
+},
+{
+"date": "2025-09-19",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3644.132,
+"exit": 3655.132,
+"profit": 55
+},
+{
+"date": "2025-09-19",
+"symbol": "XAGUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 41.869,
+"exit": 42.269,
+"profit": 100
+},
+{
+"date": "2025-09-19",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 117190.80,
+"exit": 116990.80,
+"profit": -10
+},
+{
+"date": "2025-09-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3724.614,
+"exit": 3713,
+"profit": 58.07
+},
+{
+"date": "2025-09-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3715.07,
+"exit": 3719.09,
+"profit": 20.1
+},
+{
+"date": "2025-09-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3692.2143,
+"exit": 3710,
+"profit": 88.925
+},
+{
+"date": "2025-09-23",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3746.885,
+"exit": 3740.21,
+"profit": 33.375
+},
+{
+"date": "2025-09-23",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 3757.178,
+"exit": 3746.707,
+"profit": 52.355
+},
+{
+"date": "2025-09-24",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3752.931,
+"exit": 3765.279,
+"profit": 61.74
+},
+{
+"date": "2025-09-24",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3767.857,
+"exit": 3771.7,
+"profit": 19.215
+},
+{
+"date": "2025-10-03",
+"symbol": "EURUSD",
+"tradeType": "SELL",
+"quantity": 0.1,
+"entry": 1.17202,
+"exit": 1.17350,
+"profit": -7.4
+},
+{
+"date": "2025-10-03",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 120137.11,
+"exit": 120437.11,
+"profit": 22.5
+},
+{
+"date": "2025-10-03",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.1,
+"entry": 3844.485,
+"exit": 3859.485,
+"profit": 75
+},
+{
+"date": "2025-10-04",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 122861.22,
+"exit": 121861.22,
+"profit": 75
+},
+{
+"date": "2025-10-05",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.15,
+"entry": 12754.07,
+"exit": 123754.01,
+"profit": 150
+},
+{
+"date": "2025-10-06",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3920.952,
+"exit": 3928.952,
+"profit": 40
+},
+{
+"date": "2025-10-06",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3937.896,
+"exit": 3957.896,
+"profit": 100
+},
+{
+"date": "2025-10-06",
+"symbol": "EURUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 1.16753,
+"exit": 1.17133,
+"profit": 19
+},
+{
+"date": "2025-10-06",
+"symbol": "USDJPY",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 150.344,
+"exit": 149.99,
+"profit": -11.5
+},
+{
+"date": "2025-10-07",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 124573.45,
+"exit": 122373.45,
+"profit": 165
+},
+{
+"date": "2025-10-07",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3968.351,
+"exit": 3986.351,
+"profit": 90
+},
+{
+"date": "2025-10-08",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4012.245,
+"exit": 4047.245,
+"profit": 175
+},
+{
+"date": "2025-10-09",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4038.081,
+"exit": 4048.081,
+"profit": 50
+},
+{
+"date": "2025-10-09",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.15,
+"entry": 122290.15,
+"exit": 123490.15,
+"profit": 90
+},
+{
+"date": "2025-10-10",
+"symbol": "XAGUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 51.004,
+"exit": 49.992,
+"profit": 126.5
+},
+{
+"date": "2025-10-10",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 3999.952,
+"exit": 3986.952,
+"profit": 65
+},
+{
+"date": "2025-10-11",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 110950.15,
+"exit": 110596.65,
+"profit": 17.7
+},
+{
+"date": "2025-10-11",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 112328.85,
+"exit": 112101.85,
+"profit": 11.35
+},
+{
+"date": "2025-10-12",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 112049.25,
+"exit": 114796.05,
+"profit": 137.35
+},
+
+{
+"date": "2025-10-13",
+"symbol": "EURUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 1.15946,
+"exit": 1.15692,
+"profit": 12.7
+},
+{
+"date": "2025-10-13",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4073.237,
+"exit": 4077.237,
+"profit": 20
+},
+{
+"date": "2025-10-13",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 114708.45,
+"exit": 115208.45,
+"profit": 20
+},
+{
+"date": "2025-10-13",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4060.343,
+"exit": 4075.343,
+"profit": 75
+},
+{
+"date": "2025-10-13",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4057.612,
+"exit": 4056.154,
+"profit": -7.29
+},
+{
+"date": "2025-10-14",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4103.231,
+"exit": 4176.231,
+"profit": 365
+},
+{
+"date": "2025-10-14",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4176.271,
+"exit": 4136.271,
+"profit": 200
+},
+{
+"date": "2025-10-15",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4176.555,
+"exit": 4196.555,
+"profit": 100
+},
+{
+"date": "2025-10-15",
+"symbol": "GBPJPY",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 201.635,
+"exit": 202.197,
+"profit": -18.55
+},
+{
+"date": "2025-10-15",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4201.759,
+"exit": 4187.759,
+"profit": 70
+},
+{
+"date": "2025-10-15",
+"symbol": "XAGUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 52.956,
+"exit": 52.533,
+"profit": 52.875
+},
+{
+"date": "2025-10-15",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 113063.07,
+"exit": 112463.07,
+"profit": 30
+},
+{
+"date": "2025-10-16",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4201.919,
+"exit": 4221.661,
+"profit": 98.71
+},
+{
+"date": "2025-10-16",
+"symbol": "GBPUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 1.33506,
+"exit": 1.34204,
+"profit": 34.9
+},
+{
+"date": "2025-10-16",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4235.163,
+"exit": 4221.631,
+"profit": 67.66
+},
+{
+"date": "2025-10-16",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 112000.22,
+"exit": 111056.10,
+"profit": 47.205
+},
+{
+"date": "2025-10-17",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4365.684,
+"exit": 4355.684,
+"profit": 50
+},
+{
+"date": "2025-10-17",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 108448.44,
+"exit": 106448.44,
+"profit": 100
+},
+{
+"date": "2025-10-17",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 201.682,
+"exit": 201.008,
+"profit": -22.54
+},
+{
+"date": "2025-10-20",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 108243.78,
+"exit": 111243.78,
+"profit": 150
+},
+{
+"date": "2025-10-20",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4267.936,
+"exit": 4232.936,
+"profit": 175
+},
+{
+"date": "2025-10-20",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 108243.78,
+"exit": 111243.78,
+"profit": 150
+},
+{
+"date": "2025-10-20",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4267.936,
+"exit": 4232.936,
+"profit": 175
+},
+{
+"date": "2025-10-21",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4101.409,
+"exit": 4131.409,
+"profit": 150
+},
+{
+"date": "2025-10-21",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4170.745,
+"exit": 4110.745,
+"profit": 300
+},
+{
+"date": "2025-10-21",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4263.883,
+"exit": 4203.883,
+"profit": 300
+},
+{
+"date": "2025-10-22",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4156.704,
+"exit": 4136.704,
+"profit": 100
+},
+{
+"date": "2025-10-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4148.983,
+"exit": 4158.983,
+"profit": 50
+},
+{
+"date": "2025-10-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4129.227,
+"exit": 4144.227,
+"profit": 75
+},
+{
+"date": "2025-10-22",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4113.342,
+"exit": 4123.342,
+"profit": 50
+},
+{
+"date": "2025-10-22",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4095.813,
+"exit": 4065.813,
+"profit": 150
+},
+{
+"date": "2025-10-23",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4077.335,
+"exit": 4100.335,
+"profit": 115
+},
+{
+"date": "2025-10-23",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 108928.70,
+"exit": 109928.70,
+"profit": 50
+},
+{
+"date": "2025-10-24",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4090.811,
+"exit": 4111.214,
+"profit": 102.015
+},
+{
+"date": "2025-10-24",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 111216.15,
+"exit": 110616.15,
+"profit": -30
+},
+{
+"date": "2025-10-24",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4078.410,
+"exit": 4053.406,
+"profit": 125.02
+},
+{
+"date": "2025-10-24",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4113.577,
+"exit": 4103.581,
+"profit": 49.98
+},
+{
+"date": "2025-10-27",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4038.532,
+"exit": 4018.532,
+"profit": 100
+},
+{
+"date": "2025-10-27",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4078.762,
+"exit": 4058.762,
+"profit": 100
+},
+{
+"date": "2025-10-28",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 113832.29,
+"exit": 114472.86,
+"profit": -32.03
+},
+{
+"date": "2025-10-28",
+"symbol": "GBPJPY",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 203.541,
+"exit": 202.324,
+"profit": -40.065
+},
+{
+"date": "2025-10-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 3920.140,
+"exit": 3900.140,
+"profit": 100
+},
+{
+"date": "2025-10-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 3968.830,
+"exit": 3945.830,
+"profit": 115
+},
+{
+"date": "2025-10-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 3986.093,
+"exit": 3976.093,
+"profit": 50
+},
+{
+"date": "2025-10-29",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3972.548,
+"exit": 4017.548,
+"profit": 225
+},
+{
+"date": "2025-10-30",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3925.628,
+"exit": 3945.628,
+"profit": 100
+},
+{
+"date": "2025-10-30",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3971.860,
+"exit": 4001.860,
+"profit": 150
+},
+{
+"date": "2025-10-30",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 201.075,
+"exit": 202.995,
+"profit": 62.44
+},
+{
+"date": "2025-10-30",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 110717.48,
+"exit": 110236.71,
+"profit": 24.04
+},
+{
+"date": "2025-10-31",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4010.812,
+"exit": 4020.812,
+"profit": 50
+},
+{
+"date": "2025-10-31",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4004.088,
+"exit": 4014.088,
+"profit": 50
+},
+{
+"date": "2025-11-03",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4016.223,
+"exit": 4000.223,
+"profit": 80
+},
+{
+"date": "2025-11-03",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3992.086,
+"exit": 4020.086,
+"profit": 140
+},
+{
+"date": "2025-11-05",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3950.389,
+"exit": 3970.389,
+"profit": 100
+},
+{
+"date": "2025-11-05",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 3980.000,
+"exit": 3960.000,
+"profit": 100
+},
+{
+"date": "2025-11-07",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 3995.159,
+"exit": 4005.147,
+"profit": 49.94
+},
+{
+"date": "2025-11-07",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 102103.16,
+"exit": 100107.03,
+"profit": 149.71
+},
+{
+"date": "2025-11-10",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4081.371,
+"exit": 4101.371,
+"profit": 100
+},
+{
+"date": "2025-11-10",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4050.998,
+"exit": 4070.998,
+"profit": 100
+},
+{
+"date": "2025-11-11",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4134.315,
+"exit": 4144.315,
+"profit": 50
+},
+{
+"date": "2025-11-11",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 106262.89,
+"exit": 105264.49,
+"profit": 74.88
+},
+{
+"date": "2025-11-11",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4144.512,
+"exit": 4129.512,
+"profit": 75
+},
+{
+"date": "2025-11-12",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4105.501,
+"exit": 4131.501,
+"profit": 130
+},
+{
+"date": "2025-11-13",
+"symbol": "EURUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 1.15874,
+"exit": 1.16091,
+"profit": -10.85
+},
+{
+"date": "2025-11-13",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4234.720,
+"exit": 4231.650,
+"profit": -15
+},
+{
+"date": "2025-11-13",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.15,
+"entry": 102081.52,
+"exit": 103481.22,
+"profit": 104.975
+},
+{
+"date": "2025-11-13",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.10,
+"entry": 4188.137,
+"exit": 4216.137,
+"profit": 140
+},
+{
+"date": "2025-11-14",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4207.021,
+"exit": 4182.021,
+"profit": 125
+},
+{
+"date": "2025-11-14",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4080,
+"exit": 4050,
+"profit": 150
+},
+{
+"date": "2025-11-17",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4089.678,
+"exit": 4059.678,
+"profit": 150
+},
+{
+"date": "2025-11-17",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.10,
+"entry": 4082.874,
+"exit": 4068.874,
+"profit": 70
+},
+{
+"date": "2025-11-17",
+"symbol": "GBPJPY",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 203.391,
+"exit": 204.143,
+"profit": 24.28
+},
+{
+"date": "2025-11-17",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.15,
+"entry": 95056.52,
+"exit": 94508.25,
+"profit": -41.12
+},
+{
+"date": "2025-11-18",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.15,
+"entry": 89397.44,
+"exit": 91397.44,
+"profit": 150
+},
+{
+"date": "2025-11-18",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4047.808,
+"exit": 4037.808,
+"profit": 50
+},
+{
+"date": "2025-11-18",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4007.303,
+"exit": 4040.303,
+"profit": 165
+},
+{
+"date": "2025-11-19",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4072.407,
+"exit": 4092.407,
+"profit": 100
+},
+{
+"date": "2025-11-19",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 92210.23,
+"exit": 91210.23,
+"profit": 75
+},
+{
+"date": "2025-11-20",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4073.745,
+"exit": 4046.645,
+"profit": 135
+},
+{
+"date": "2025-11-21",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 86598.59,
+"exit": 83598.59,
+"profit": 225
+},
+{
+"date": "2025-11-21",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4070.356,
+"exit": 4053.356,
+"profit": 85
+},
+{
+"date": "2025-11-21",
+"symbol": "XAUUSD",
+"tradeType": "Buy",
+"quantity": 0.05,
+"entry": 4070.356,
+"exit": 4053.356,
+"profit": 85
+},
+{
+"date": "2025-11-24",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4070.134,
+"exit": 4076.134,
+"profit": 30
+},
+{
+"date": "2025-11-24",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4056.176,
+"exit": 4076.176,
+"profit": 50
+},
+{
+"date": "2025-11-25",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.15,
+"entry": 88181.61,
+"exit": 87181.61,
+"profit": 75
+},
+{
+"date": "2025-11-25",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4146.829,
+"exit": 4120.829,
+"profit": 130
+},
+{
+"date": "2025-11-28",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4165.431,
+"exit": 4175.531,
+"profit": 50.5
+},
+{
+"date": "2025-11-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4185.559,
+"exit": 4176.402,
+"profit": 45.785
+},
+{
+"date": "2025-12-18",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 4336.054,
+"exit": 4316.054,
+"profit": 100
+},
+{
+"date": "2025-12-18",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4333.351,
+"exit": 4363.351,
+"profit": 150
 },
 {
     "date": "2026-01-02",
@@ -1912,221 +1912,221 @@ profit: 150
     "profit": 24.95
   },
     {
-date: "2025-12-26",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4468.52,
-exit: 4499.04,
-profit: 152.6
+"date": "2025-12-26",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4468.52,
+"exit": 4499.04,
+"profit": 152.6
 },
 {
-date: "2025-12-29",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4494.96,
-exit: 4515.67,
-profit: 103.55
+"date": "2025-12-29",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4494.96,
+"exit": 4515.67,
+"profit": 103.55
 },
 {
-date: "2025-12-30",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4362.17,
-exit: 4390.28,
-profit: 70.275
+"date": "2025-12-30",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4362.17,
+"exit": 4390.28,
+"profit": 70.275
 },
 {
-date: "2025-12-31",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4305.87,
-exit: 4321.15,
-profit: 76.4
+"date": "2025-12-31",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4305.87,
+"exit": 4321.15,
+"profit": 76.4
 },
 {
-date: "2025-12-31",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4357.86,
-exit: 4362.22,
-profit: 21.8
+"date": "2025-12-31",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4357.86,
+"exit": 4362.22,
+"profit": 21.8
 },
 
 
 {
-date: "2026-01-26",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5057.47,
-exit: 5066.76,
-profit:46.45
+"date": "2026-01-26",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5057.47,
+"exit": 5066.76,
+"profit":46.45
 },
 {
-date: "2026-01-26",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5059.51,
-exit: 5064.58,
-profit: 25.35
+"date": "2026-01-26",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5059.51,
+"exit": 5064.58,
+"profit": 25.35
 },
 {
-date: "2026-01-27",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5091.46,
-exit: 5084.07,
-profit: -36.95
+"date": "2026-01-27",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5091.46,
+"exit": 5084.07,
+"profit": -36.95
 },
 {
-date: "2026-01-27",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5141.73,
-exit: 5170.5,
-profit: 143.85
+"date": "2026-01-27",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5141.73,
+"exit": 5170.5,
+"profit": 143.85
 },
 {
-date: "2026-01-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 5278.21,
-exit: 5270.45,
-profit: 38.8
+"date": "2026-01-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 5278.21,
+"exit": 5270.45,
+"profit": 38.8
 },
 {
-date: "2026-01-28",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5293.50,
-exit: 5291.22,
-profit: -11.4
+"date": "2026-01-28",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5293.50,
+"exit": 5291.22,
+"profit": -11.4
 },
 {
-date: "2026-01-28",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 5293.78,
-exit: 5290.53,
-profit: 16.25
+"date": "2026-01-28",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 5293.78,
+"exit": 5290.53,
+"profit": 16.25
 },
 {
-date: "2026-01-28",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5282.31,
-exit: 5285.24,
-profit: 14.65
+"date": "2026-01-28",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5282.31,
+"exit": 5285.24,
+"profit": 14.65
 },
 {
-date: "2026-01-29",
-symbol: "XAUUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 5514.15,
-exit: 5522.25,
-profit: -40.5
+"date": "2026-01-29",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 5514.15,
+"exit": 5522.25,
+"profit": -40.5
 },
 {
-date: "2026-01-29",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5196.62,
-exit: 5226.09,
-profit: 147.35
+"date": "2026-01-29",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5196.62,
+"exit": 5226.09,
+"profit": 147.35
 },
 {
-date: "2026-01-30",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 5143.48,
-exit: 5160.29,
-profit: 84.05
+"date": "2026-01-30",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 5143.48,
+"exit": 5160.29,
+"profit": 84.05
 },
 {
-date: "2026-02-03",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4923.89,
-exit: 4932.04,
-profit: 40.75
+"date": "2026-02-03",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4923.89,
+"exit": 4932.04,
+"profit": 40.75
 },
 {
-date: "2026-02-03",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4927.31,
-exit: 4932.76,
-profit: 27.25
+"date": "2026-02-03",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4927.31,
+"exit": 4932.76,
+"profit": 27.25
 },
 {
-date: "2026-02-04",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4907.23,
-exit: 4919.39,
-profit: 60.8
+"date": "2026-02-04",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4907.23,
+"exit": 4919.39,
+"profit": 60.8
 },
 {
-date: "2026-02-05",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4858.51,
-exit: 4871.92,
-profit: 67.05
+"date": "2026-02-05",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4858.51,
+"exit": 4871.92,
+"profit": 67.05
 },
 {
-date: "2026-02-06",
-symbol: "XAUUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 4869.58,
-exit: 4882.00,
-profit: 62.1
+"date": "2026-02-06",
+"symbol": "XAUUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 4869.58,
+"exit": 4882.00,
+"profit": 62.1
 },
 {
-date: "2026-02-08",
-symbol: "BTCUSD",
-tradeType: "BUY",
-quantity: 0.05,
-entry: 69357.23,
-exit: 70331.02,
-profit: 48.69
+"date": "2026-02-08",
+"symbol": "BTCUSD",
+"tradeType": "BUY",
+"quantity": 0.05,
+"entry": 69357.23,
+"exit": 70331.02,
+"profit": 48.69
 },
 {
-date: "2026-02-08",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 71209.17,
-exit: 71100.45,
-profit: 5.435
+"date": "2026-02-08",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 71209.17,
+"exit": 71100.45,
+"profit": 5.435
 },
 {
-date: "2026-02-08",
-symbol: "BTCUSD",
-tradeType: "SELL",
-quantity: 0.05,
-entry: 71074.64,
-exit: 70970.87,
-profit: 5.19
+"date": "2026-02-08",
+"symbol": "BTCUSD",
+"tradeType": "SELL",
+"quantity": 0.05,
+"entry": 71074.64,
+"exit": 70970.87,
+"profit": 5.19
 }
 ]
