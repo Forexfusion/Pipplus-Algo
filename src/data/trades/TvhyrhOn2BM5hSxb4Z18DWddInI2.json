@@ -8489,5 +8489,23 @@
     "entry": 4920.16,
     "exit": 4938.72,
     "profit": 185.6
+  },
+  {
+    "date": "2026-02-18",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4945.06,
+    "exit": 4957.93,
+    "profit": 128.7
+  },
+  {
+    "date": "2026-02-18",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4976.28,
+    "exit": 4982.04,
+    "profit": 57.6
   }
 ]
