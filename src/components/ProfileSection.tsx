@@ -50,9 +50,7 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
   onProfileUpdate,
 }) => {
   const [avatarUrl, setAvatarUrl] = useState<string>(currentUser.photoURL || "");
-  const [displayName, setDisplayName] = useState<string>(
-    currentUser.displayName || ""
-  );
+  const [displayName, setDisplayName] = useState<string>(currentUser.displayName || "");
   const [isEditing, setIsEditing] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
@@ -69,10 +67,12 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
     city: "",
     serviceName: "",
     kycStatus: "pending",
+
+    // ✅ NEW FIELD
     clientApiCode: "",
   });
 
-  // FETCH PROFILE
+  // ✅ FETCH PROFILE
   useEffect(() => {
     const fetchUserProfile = async () => {
       if (!currentUser) return;
@@ -95,6 +95,8 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
             city: data.city || "",
             serviceName: data.serviceName || "",
             kycStatus: data.kycStatus || "pending",
+
+            // ✅ LOAD EXISTING API CODE
             clientApiCode: data.clientApiCode || "",
           }));
         }
@@ -106,13 +108,8 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
     fetchUserProfile();
   }, [currentUser]);
 
-  // SAVE PROFILE (BROKER PASSWORD MANDATORY)
+  // ✅ SAVE PROFILE
   const handleUpdateProfile = async () => {
-    if (!userData.brokerPassword || !userData.brokerPassword.trim()) {
-      message.error("Broker password is mandatory. Please enter it before saving.");
-      return;
-    }
-
     setIsLoading(true);
     try {
       await updateProfile(currentUser, { displayName });
@@ -143,11 +140,9 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
     const downloadUrl = await getDownloadURL(storageRef);
 
     await updateProfile(currentUser, { photoURL: downloadUrl });
-    await setDoc(
-      doc(db, "userProfiles", currentUser.uid),
-      { photoURL: downloadUrl },
-      { merge: true }
-    );
+    await setDoc(doc(db, "userProfiles", currentUser.uid), {
+      photoURL: downloadUrl,
+    }, { merge: true });
 
     setAvatarUrl(downloadUrl);
     message.success("Profile picture updated");
@@ -184,6 +179,10 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
                 key="cancel"
                 icon={<CloseOutlined />}
                 onClick={handleCancelEdit}
+                style={{
+                  borderColor: themeColors.border,
+                  color: themeColors.textSecondary,
+                }}
               >
                 Cancel
               </Button>,
@@ -193,7 +192,7 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
                 icon={<SaveOutlined />}
                 onClick={handleUpdateProfile}
                 loading={isLoading}
-                disabled={isLoading || !userData.brokerPassword?.trim()}
+                disabled={isLoading}
                 style={{
                   background: themeColors.buttonPrimary,
                   borderColor: themeColors.buttonPrimary,
@@ -204,8 +203,180 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({
             ]
       }
     >
-      {/* REST OF UI SAME AS BEFORE */}
-      {/* Broker Password field already present – no UI change needed */}
+      {/* Avatar Section */}
+      <div style={{ textAlign: "center", marginBottom: 24 }}>
+        <Avatar
+          size={120}
+          src={avatarUrl || undefined}
+          icon={!avatarUrl ? <UserOutlined /> : undefined}
+          style={{
+            backgroundColor: themeColors.primary,
+            fontSize: 48,
+            marginBottom: 16,
+            border: `2px solid ${themeColors.borderLight}`,
+          }}
+        />
+        <div style={{ marginBottom: 12 }}>
+          <Upload showUploadList={false} customRequest={handleAvatarUpload} accept="image/*">
+            <Button icon={<UploadOutlined />}>Upload DP</Button>
+          </Upload>
+        </div>
+
+        {isEditing ? (
+          <Input
+            value={displayName}
+            onChange={(e) => setDisplayName(e.target.value)}
+            style={{
+              maxWidth: 300,
+              margin: "0 auto 8px",
+              color: themeColors.textPrimary,
+              background: themeColors.backgroundLight,
+            }}
+            placeholder="Enter your name"
+          />
+        ) : (
+          <Title level={4} style={{ marginBottom: 4, color: themeColors.textPrimary }}>
+            {displayName || currentUser.email || "User"}
+          </Title>
+        )}
+
+        <Text style={{ display: "block", marginBottom: 16, color: themeColors.textSecondary }}>
+          UID: {currentUser.uid}
+        </Text>
+      </div>
+
+      {/* ACCOUNT DETAILS */}
+      <Divider orientation="left" plain>
+        Account Details
+      </Divider>
+
+      <Descriptions bordered column={1}>
+        <Descriptions.Item label="Email">{currentUser.email}</Descriptions.Item>
+
+        {/* ✅ API CODE FIELD ADDED */}
+        <Descriptions.Item label="Client API Code">
+          {isEditing ? (
+            <Input
+              value={userData.clientApiCode}
+              onChange={(e) =>
+                setUserData({ ...userData, clientApiCode: e.target.value })
+              }
+              placeholder="Enter your API code"
+            />
+          ) : (
+            userData.clientApiCode || "Not Set"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="Password">
+          {isEditing ? (
+            <Input.Password
+              value={userData.mt5Password}
+              onChange={(e) =>
+                setUserData({ ...userData, mt5Password: e.target.value })
+              }
+            />
+          ) : (
+            "********"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="MT5 Account ID">
+          {isEditing ? (
+            <Input
+              value={userData.mt5AccountId}
+              onChange={(e) =>
+                setUserData({ ...userData, mt5AccountId: e.target.value })
+              }
+            />
+          ) : (
+            userData.mt5AccountId || "Not Set"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="MT5 Server">
+          {isEditing ? (
+            <Input
+              value={userData.mt5Server}
+              onChange={(e) =>
+                setUserData({ ...userData, mt5Server: e.target.value })
+              }
+            />
+          ) : (
+            userData.mt5Server || "Not Set"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="Broker Email ID">
+          {isEditing ? (
+            <Input
+              value={userData.brokerEmail}
+              onChange={(e) =>
+                setUserData({ ...userData, brokerEmail: e.target.value })
+              }
+            />
+          ) : (
+            userData.brokerEmail || "Not Set"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="Broker Password">
+          {isEditing ? (
+            <Input.Password
+              value={userData.brokerPassword}
+              onChange={(e) =>
+                setUserData({ ...userData, brokerPassword: e.target.value })
+              }
+            />
+          ) : userData.brokerPassword ? (
+            "********"
+          ) : (
+            "Not Set"
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="KYC Status">
+          {isEditing ? (
+            <Select
+              value={userData.kycStatus}
+              onChange={(value) =>
+                setUserData({ ...userData, kycStatus: value })
+              }
+              style={{ width: 200 }}
+            >
+              <Option value="pending">Pending</Option>
+              <Option value="verified">Verified</Option>
+              <Option value="rejected">Rejected</Option>
+            </Select>
+          ) : (
+            userData.kycStatus
+          )}
+        </Descriptions.Item>
+
+        <Descriptions.Item label="2FA Enabled">
+          {isEditing ? (
+            <Switch
+              checked={userData.is2FAEnabled}
+              onChange={(checked) =>
+                setUserData({ ...userData, is2FAEnabled: checked })
+              }
+            />
+          ) : userData.is2FAEnabled ? "Yes" : "No"}
+        </Descriptions.Item>
+      </Descriptions>
+
+      {/* CLIENT PERSONAL DETAILS */}
+      <Divider orientation="left" plain>
+        Client Details
+      </Divider>
+
+      <Descriptions bordered column={1}>
+        <Descriptions.Item label="Client Name">{userData.clientName || "N/A"}</Descriptions.Item>
+        <Descriptions.Item label="Mobile Number">{userData.mobileNumber || "N/A"}</Descriptions.Item>
+        <Descriptions.Item label="Date of Birth">{userData.dob || "N/A"}</Descriptions.Item>
+        <Descriptions.Item label="City">{userData.city || "N/A"}</Descriptions.Item>
+        <Descriptions.Item label="Service Name">{userData.serviceName || "N/A"}</Descriptions.Item>
+      </Descriptions>
     </Card>
   );
 };
