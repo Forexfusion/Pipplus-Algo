@@ -1,1 +1,11 @@
-[]
+[
+   {
+    "date": "2026-04-09",
+    "symbol": "XAUUSD",
+    "tradeType": "SELL",
+    "quantity": 0.02,
+    "entry": 4730.30,
+    "exit": 44727.52,
+    "profit": 5.56
+  }
+]
