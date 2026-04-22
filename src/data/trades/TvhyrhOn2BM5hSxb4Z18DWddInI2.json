@@ -8975,5 +8975,51 @@
     "entry": 4737.68,
     "exit": 4749.04,
     "profit": 113.6
+  },
+  {
+    "date": "2026-04-13",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4711.03,
+    "exit": 4717.86,
+    "profit": 68.3
+  },
+{
+    "date": "2026-04-14",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4747.31,
+    "exit": 4769.11,
+    "profit": 218
+  },
+{
+    "date": "2026-04-15",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4826.16,
+    "exit": 4810,
+    "profit": -161.6
+  },
+{
+    "date": "2026-04-16",
+    "symbol": "XAUUSD",
+    "tradeType": "BUY",
+    "quantity": 0.10,
+    "entry": 4801.62,
+    "exit": 4775,
+    "profit": -266.2
+  },
+{
+    "date": "2026-04-17",
+    "symbol": "XAUUSD",
+    "tradeType": "SELL",
+    "quantity": 0.10,
+    "entry": 4795.27,
+    "exit": 4780,
+    "profit": 152.7
   }
+
 ]
