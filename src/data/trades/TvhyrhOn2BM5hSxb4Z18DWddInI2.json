@@ -9006,11 +9006,11 @@
 {
     "date": "2026-04-16",
     "symbol": "XAUUSD",
-    "tradeType": "BUY",
+    "tradeType": "SELL",
     "quantity": 0.10,
     "entry": 4801.62,
     "exit": 4775,
-    "profit": -266.2
+    "profit": 266.2
   },
 {
     "date": "2026-04-17",
