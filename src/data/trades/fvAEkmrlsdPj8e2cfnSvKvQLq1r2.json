@@ -43,5 +43,14 @@
 "entry": 4694.934,
 "exit": 4700.764,
 "profit": 11.66
+},
+  {
+"date": "2026-05-14",
+"symbol": "XAUUSD",
+"tradeType": "SELL",
+"quantity": 0.01,
+"entry": 4698.394,
+"exit": 4696.374,
+"profit": 2.02
 }
 ]
