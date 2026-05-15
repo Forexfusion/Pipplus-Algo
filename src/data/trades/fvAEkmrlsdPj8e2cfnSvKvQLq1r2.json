@@ -108,12 +108,12 @@
 "profit": -5.50
 },
   {
-"date": "2026-05-14",
+"date": "2026-05-15",
 "symbol": "XAUUSD",
 "tradeType": "BUY",
 "quantity": 0.01,
-"entry": 4686.836,
-"exit": 4694.543,
-"profit": 7.70
+"entry": 4584.096,
+"exit": 4588107,
+"profit": 4.01
 }
 ]
